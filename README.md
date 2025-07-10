@@ -1,2 +1,1 @@
-# anaksmpcrot
-anaksmpcrot
+# [anaksmpcrot](https://anaksmpcrot.pages.dev)
